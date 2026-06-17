@@ -404,7 +404,7 @@ height:350px;
 width:100%;
 height:870px;
 }
-
+/* fotter my link start   */
 
 .fotter{
 width:100%;
@@ -419,14 +419,15 @@ line-height:45px;
 
 .fotter h1 a{
 text-decoration:none;
-color:black;
+color:green;
 
 }
 .fotter h1 a:hover{
 text-decoration:none;
-color:green;
+color:blueviolet;
 
 }
+/* fotter my link end   */
 
 /* center contant all css left side*/
 .leftside
