@@ -50,9 +50,8 @@ This project is created as a beginner-level practice website to learn the basics
 
 
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 
 
