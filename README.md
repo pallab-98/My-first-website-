@@ -109,11 +109,13 @@ This project is created as a beginner-level practice website to learn the basics
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
-Pallab  
+### Pallab  
 
-GitHub: https://github.com/pallab-98
+<a href="https://github.com/pallab-98">
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+</a>
 
