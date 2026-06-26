@@ -1,13 +1,11 @@
 ## My First Website
 
-Welcome to my first web development project 🚀  
+### Welcome to my first web development project 🚀  
 
-This is a simple website built using HTML and CSS.
+### This is a simple website built using HTML and CSS.
 ---
 
-## Live Website
-
-## 👉 Click here to view my project:  
+## Live Website 
 <a href="https://pallab-98.github.io/My-first-website-/">
   <img src="https://img.icons8.com/fluency/48/domain.png"/>
 </a>
