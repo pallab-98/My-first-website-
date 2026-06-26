@@ -8,11 +8,11 @@ This is a simple website built using HTML and CSS.
 
 
 
-\---
+---
 
 
 
-\## 🔗 Live Website
+## 🔗 Live Website
 
 
 
@@ -22,11 +22,11 @@ This is a simple website built using HTML and CSS.
 
 
 
-\---
+---
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -34,19 +34,19 @@ This project is created as a beginner-level practice website to learn the basics
 
 
 
-\- HTML structure
+- HTML structure
 
-\- CSS styling
+- CSS styling
 
-\- Page layout design
-
-
-
-\---
+- Page layout design
 
 
 
-\## 🛠️ Technologies Used
+---
+
+
+
+## 🛠️ Technologies Used
 
 
 
@@ -55,29 +55,29 @@ This project is created as a beginner-level practice website to learn the basics
 
 
 
-\---
+---
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\- Simple homepage design  
+- Simple homepage design  
 
-\- Basic layout using HTML \& CSS  
+- Basic layout using HTML \& CSS  
 
-\- Beginner-friendly code  
+- Beginner-friendly code  
 
-\- Hosted using GitHub Pages  
-
-
-
-\---
+- Hosted using GitHub Pages  
 
 
 
-\## 📷 Preview
+---
+
+
+
+## 📷 Preview
 
 
 
@@ -87,25 +87,25 @@ This project is created as a beginner-level practice website to learn the basics
 
 
 
-\---
+---
 
 
 
-\## 🎯 Learning Goals
+## 🎯 Learning Goals
 
 
 
-\- Understand HTML structure  
+- Understand HTML structure  
 
-\- Learn CSS styling basics  
+- Learn CSS styling basics  
 
-\- Build first static website  
+- Build first static website  
 
-\- Deploy website using GitHub Pages  
+- Deploy website using GitHub Pages  
 
 
 
-\---
+---
 
 
 
