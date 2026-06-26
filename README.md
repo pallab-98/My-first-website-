@@ -63,4 +63,6 @@ This project is created as a beginner-level practice website to learn the basics
 <a href="https://github.com/pallab-98">
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
 </a>
-
+<a href="https://discord.com/users/pallab_98">
+  <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
+</a>
